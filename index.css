@@ -1,0 +1,16 @@
+#body {
+    background-color: rgb(230, 133, 54);
+}
+
+#div1 {
+    text-align: center;
+    padding: 100px;
+}
+
+#div2 {
+    text-align: center;
+}
+
+#resultat {
+    color: rgb(242, 236, 236);
+}
